@@ -1,0 +1,14 @@
+img {
+  width: 100%;
+}
+.floatLeft {
+  width: 45%;
+  float: left;
+}
+.floatRight {
+  width: 45%;
+  float: right;
+}
+h3 {
+  clear:both;
+}

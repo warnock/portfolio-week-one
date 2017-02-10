@@ -1,6 +1,6 @@
 # _Portfolio Landing Page_
 
-#### This is a portfolio landing page detailing personal information. , February 10th, 2017
+#### This is a portfolio landing page detailing personal information, February 10th, 2017
 
 #### By _**Megan Warnock**_
 

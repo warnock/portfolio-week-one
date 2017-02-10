@@ -1,16 +1,16 @@
 # _Portfolio Landing Page_
 
-#### _This is a portfolio landing page detailing personal information. , Feb. 10th, 2017 _
+#### This is a portfolio landing page detailing personal information. , February 10th, 2017
 
 #### By _**Megan Warnock**_
 
 ## Description
 
-_{This is a portfolio landing page detailing personal informations such as name, photo, GitHub projects, an about section, and etc._
+_This is a portfolio landing page detailing personal informations such as name, photo, GitHub projects, an about section, and etc._
 _Purpose and usage: To convey information about Megan Warnock's background education and work._
 
 ## Setup
-_Clone this repository_
+_Clone this repository:_
 
 * git clone "https://github.com/warnock/portfolio-week-one"
 * you will need a browser to view this application
@@ -18,7 +18,7 @@ _Clone this repository_
 
 ## Support and contact details
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_Please feel free to use this code or contact Megan if any questions: megandwarnock@gmail.com_
 
 ## Technologies Used
 HTML
@@ -31,4 +31,4 @@ Bootstrap
 
 *This application is licensed under the MIT license*
 
-Copyright (c) 2017 **_{Megan Warnock}_**
+Copyright (c) 2017 **_Megan Warnock_**

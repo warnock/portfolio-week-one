@@ -10,7 +10,6 @@ img {
 .floatRight {
   width: 48%;
   float: right;
-
 }
 h1 {
   background-color:#303030;
@@ -51,6 +50,9 @@ a:visited {
 .headerContainer {
   width: 100%;
 }
+.headerImg {
+  border-radius: 0;
+}
 h1.wunderbar {
   display: none;
 }
@@ -81,11 +83,50 @@ img.illustration {
     border-radius: 10px;
     margin-bottom: 10px;
   }
-  body .wunderbar:hover {
-    background-color: #303030;
-    color:white;
-  }
   h3 {
     text-align: center;
   }
+  .headerImg {
+    display: none;
+  }
+  .wunderbar a {
+    color: #303030;
+  }
+}
+
+/* wunderbar styles */
+
+.bg-img {
+  background-image: url("../img/bg-img.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.container2 {
+  width: 40%;
+  margin: auto;
+  text-align: center;
+  border: solid 3px #303030;
+  border-radius: 10px;
+  padding: 50px;
+  color: white;
+  margin-top: 200px;
+}
+h5 {
+  font-size: 30px;
+  margin: 0;
+  background-color: #303030;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  opacity: .8;
+  padding-bottom: 10px;
+}
+.container2 p {
+  margin: 0;
+  font-weight: bolder;
+  font-size: 18px;
+  background-color: #303030;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  opacity: .8;
+  padding-top: 10px;
 }

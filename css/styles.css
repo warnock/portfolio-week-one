@@ -3,11 +3,11 @@ img {
   border-radius: 10px;
 }
 .floatLeft {
-  width: 45%;
+  width: 50%;
   float: left;
 }
 .floatRight {
-  width: 45%;
+  width: 48%;
   float: right;
 }
 h2 {
@@ -21,11 +21,36 @@ h3 {
 .bg-gray {
   border-radius: 10px;
   padding: 10px;
-  background-color: #D3D3D3;
+  background-color: #EBEBEB;
 }
 a:hover {
   text-decoration: none;
 }
 a:visited {
   text-decoration: none;
+}
+.welcome {
+  font-style: italic;
+  font-weight: bold;
+}
+.headerContainer {
+  width: 100%;
+}
+.wunderbar {
+  display: none;
+}
+
+@media screen and (max-width: 991px){
+  .floatLeft {
+    width: 100%;
+    float: none;
+    margin: auto;
+  }
+  .floatRight {
+    width: 100%;
+    float: none;
+  }
+  .wunderbar {
+    position: fixed:
+  }
 }

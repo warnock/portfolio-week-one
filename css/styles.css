@@ -1,5 +1,6 @@
 img {
   width: 100%;
+  border-radius: 10px;
 }
 .floatLeft {
   width: 45%;
@@ -9,6 +10,22 @@ img {
   width: 45%;
   float: right;
 }
+h2 {
+  font-size: 2em;
+  text-align: center;
+  margin: 0 0 5px 0;
+}
 h3 {
   clear:both;
+}
+.bg-gray {
+  border-radius: 10px;
+  padding: 10px;
+  background-color: #D3D3D3;
+}
+a:hover {
+  text-decoration: none;
+}
+a:visited {
+  text-decoration: none;
 }

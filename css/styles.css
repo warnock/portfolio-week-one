@@ -124,3 +124,6 @@ img.illustration {
   opacity: .8;
   padding: 20px;
 }
+.alert-info {
+  border-radius: 10px;
+}
